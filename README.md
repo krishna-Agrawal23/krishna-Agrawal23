@@ -15,8 +15,9 @@ I have good knownledge of C++ and Data Structures and algorithms,HTML,CSS and Ja
 - 💡 Library Managment
 
 ## Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-Agrawal23&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna-Agrawal23&show_icons=true)
 
 
 ## 📫 Reach Me:
