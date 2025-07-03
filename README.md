@@ -1,7 +1,5 @@
-## Hi there Myself Krishna Agrawal  👋
+## Hi There, Myself Krishna Agrawal  👋
 
-<!--
-**krishna-Agrawal23/krishna-Agrawal23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I’m a passionate Computer Science student with interests in:
 
