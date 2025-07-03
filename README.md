@@ -1,6 +1,5 @@
 ## Hi There, Myself Krishna Agrawal  👋
 
-
 I’m a passionate Computer Science student with interests in:
 - 💻 C++ & DSA
 - 🧠 Python, Machine Learning & AI
@@ -13,10 +12,10 @@ I have good knownledge of C++ and Data Structures and algorithms,HTML,CSS and Ja
 
 ## 🚀 Projects:
 - 💡 Library Managment
-####
+##
 
 ## 📫 Reach Me:
 📧 krishnaagr218@gmail.com  
 📍 Ujjain, Madhya Pradesh  
-🔗 [LinkedIn](https://www.linkedin.com/in/krishna-agrawal10/)
-
+🖇️ [LinkedIn](https://www.linkedin.com/in/krishna-agrawal10/)
+##
