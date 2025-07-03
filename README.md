@@ -11,11 +11,15 @@ I’m a passionate Computer Science student with interests in:
 I have good knownledge of C++ and Data Structures and algorithms,HTML,CSS and Javascript and specialised in Python Programming and Machine Learning... Thrive to learn more about systems and Artificial Intilligence. I have Developed 3 mini projects so far that for some reasons i cant upload on github and now is excited to develop more and more projects that i can present and save on Github...
 
 
-### 🚀 Projects:
-- 💡 Library Managment 
+## 🚀 Projects:
+- 💡 Library Managment
+
+## Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 
-### 📫 Reach Me:
+## 📫 Reach Me:
 📧 krishnaagr218@gmail.com  
 📍 Ujjain, Madhya Pradesh  
 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-agrawal10/)
