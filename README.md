@@ -14,12 +14,6 @@ I have good knownledge of C++ and Data Structures and algorithms,HTML,CSS and Ja
 ## 🚀 Projects:
 - 💡 Library Managment
 
-## Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna-Agrawal23&show_icons=true)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-Agrawal23&layout=compact)
 
 ## 📫 Reach Me:
 📧 krishnaagr218@gmail.com  
