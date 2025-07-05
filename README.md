@@ -12,8 +12,13 @@ I have good knownledge of C++ and Data Structures and algorithms,HTML,CSS and Ja
 
 ## 🚀 Projects:
 - 💡 Library Managment
-##
+ 
 
+## Common Projects:
+- Calender - using HTML and CSS
+- Calculator - Using C++,HTML,CSS and javascript
+
+##
 ## 📫 Reach Me:
 📧 krishnaagr218@gmail.com  
 📍 Ujjain, Madhya Pradesh  
