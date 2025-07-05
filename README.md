@@ -13,6 +13,12 @@ I have good knownledge of C++ and Data Structures and algorithms,HTML,CSS and Ja
 ## 🚀 Projects:
 - 💡 Library Managment
  
+## Tools:
+- Jupyter
+- Vs code
+- Leetcode
+- NumPy
+- MongoDB
 
 ## Common Projects:
 - Calender - using HTML and CSS
