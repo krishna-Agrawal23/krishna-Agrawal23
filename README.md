@@ -12,7 +12,8 @@ I have good knownledge of C++ and Data Structures and algorithms,HTML,CSS and Ja
 
 ## 🚀 Projects:
 - 💡 Library Managment
- ##
+- 🎈 Yotube Clone
+- 🏪 Website to regiter Local Kirana Store (Currently private)
  
 ## Tools:
 - Jupyter
