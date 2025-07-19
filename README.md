@@ -3,7 +3,8 @@
 I’m a passionate Computer Science student with interests in:
 - 💻 C++ & DSA
 - 🧠 Python, Machine Learning & AI
-- 🌐 Web Development (HTML, CSS, JavaScript)
+- 🌐 Development: HTML, CSS, JavaScript, React, Node
+- 🌍 DevOps- Docker,Aws (Basics)
 ##
 
 ## About Me:
@@ -12,22 +13,23 @@ I have good knownledge of C++ and Data Structures and algorithms,HTML,CSS and Ja
 
 ## 🚀 Projects:
 - 💡 Library Managment
-- 🎈 Yotube Clone
-- 🏪 Website to regiter Local Kirana Store (Currently private)
- 
+- 🎈 Portfolio Website
+- 🏪 Website to register Local Shop Outlets
+- 🎡 Github Profile finder
+
 ## Tools:
 - Jupyter
 - Vs code
 - Leetcode
 - NumPy
-- MongoDB
 ##
 
 ## Common Projects:
-- Calender - using HTML and CSS
 - Calculator - Using C++,HTML,CSS and javascript
-
+- 📆 Calender - using HTML and CSS
+- 🎮 Tic-Tac-Toe
 ##
+
 ## 📫 Reach Me:
 📧 krishnaagr218@gmail.com  
 📍 Ujjain, Madhya Pradesh  
