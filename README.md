@@ -16,7 +16,7 @@
 
 
 ## About Me:
-##Nothing to describe i just love to code and always aims to learn more about computing and networks
+## Nothing to describe i just love to code and always aims to learn more about computing and networks
 
 ### C++ Dev
 ### Mern Stack Developer
