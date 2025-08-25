@@ -1,4 +1,5 @@
 # Hello I'm Krishna Agrawal 👋
+
 ### 💻 Programming Languages & Frameworks 
  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,7 +15,7 @@
  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=github-actions&logoColor=white)
 
-
+## 
 ### About Me:
 ### Nothing to describe i just love to code and always aims to learn more about computing and networks
 
