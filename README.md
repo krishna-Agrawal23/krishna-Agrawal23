@@ -1,7 +1,7 @@
-## Hello I'm Krishna Agrawal 👋
+# Hello I'm Krishna Agrawal 👋
 
 
-💻 Programming Languages & Frameworks 
+## 💻 Programming Languages & Frameworks 
 
  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,7 +13,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-⚙️ Technologies & Skills
+## ⚙️ Technologies & Skills
 
  ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-informational?style=for-the-badge&labelColor=333333&color=a434b9)
  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -21,13 +21,13 @@
 
 
 ## About Me:
-I Like To Code ;)
+Nothing to describe i just love to code and always aims to learn more about computing and networks
 
-C++ Dev
+### C++ Dev
 
-Mern Stack Developer
-
-CyberSecurities Engineer
+### Mern Stack Developer
+ 
+### CyberSecurities Engineer
 ##
 
 ## Check Out My Portfolio Site:
@@ -61,14 +61,14 @@ CyberSecurities Engineer
 - LEETCODE
 ##
 
-## Common Projects
+### Common Projects
 - 👩‍🏫 Calculator -> Made with C++,HTML,CSS and javascript
 - 📆 Calender -> Made with HTML and CSS
 - 🎮 Tic-Tac-Toe -> Made with C++
 - 😶‍🌫️ Github ProfileFinder -> Made with HTML,CSS, Javascript
 ##
 
-## CERTIFICATION
+### Certification
 - <mark>Development</mark> :->  BROCODE, Code Studio
 - <mark>Core Language and Skills</mark> :-> C++ , Python and DSA : Books,TakeUfroward, Love Babber, BROCODE
 - <mark>CyberSecurities</mark> :-> Online Classes
