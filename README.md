@@ -24,25 +24,20 @@
 ### CyberSecurities Engineer
 ##
 
-## Check Out My Portfolio Site:
-##
 
 ### 🚀 Projects:
 - 💡 Library Managment
   
    Focused on building a cluster of information about a airlines booking site that can be accesed via terminal
   
-- 🎈 Portfolio Website:
+- 🎈 Detector:
 
-  Made a Website to showcase about my skills using NODEJS, ReactJS, Javascript 
-
-- 🏪Geeky & Comi
-
-  A Website to upload Comic/Manga and Novels free of cost... Developed with Mern Stack, C++ and Python programming(Currently in demo mode only)
-    
+   A scanner that a user can use to detect if something he downloaded from the    internet contains Malware Virusssss....
+ 
 - 🎡 GIF Stegalzer
 
-  This is the extension that will help user detect the virus while on a browser and downloading any gif , image from the internet.
+  This is the extension that will help user detect the virus while on a
+  browser and downloading any gif , image from the internet.
 
   Mainly focused on Javascript for Browser frontend and C++ and Python programming for the backend workflow 
 ##
