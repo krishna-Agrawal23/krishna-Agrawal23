@@ -38,8 +38,6 @@
 
   This is the extension that will help user detect the virus while on a
   browser and downloading any gif , image from the internet.
-
-  Mainly focused on Javascript for Browser frontend and C++ and Python programming for the backend workflow 
 ##
 
 ## Tools:
