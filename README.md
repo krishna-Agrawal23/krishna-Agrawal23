@@ -65,18 +65,17 @@ const krishna = {
 | Project | Description | Stack | Links |
 |:--------|:------------|:------|:------|
 | 🏠 **PlotFarm** | AI-powered real estate marketplace with property listings, location-based search, and interactive property exploration | `React.js` • `Node.js` • `MongoDB` • `Google Maps API` • `GPT-4.1` | [Live](https://plotfarm.vercel.app) • [Source](https://github.com/krishna-Agrawal23/PlotFarm) |
-| 🏘️ **Society-WalFare-Management** | Society administration platform with maintenance tracking, resident management, and complaint handling | `React.js` `Node.js` `MongoDB` `Razorpay` |[Live](https://society-walfare-managment.vercel.app) • [Source](https://github.com/krishna-Agrawal23/Society-Walfare-Managment) |
+| 🏘️ **Society-WalFare-Management** | Society administration platform with maintenance tracking, resident management, and complaint handling | `React.js` • `Node.js` • `MongoDB` • `Razorpay` |[Live](https://society-walfare-managment.vercel.app) • [Source](https://github.com/krishna-Agrawal23/Society-Walfare-Managment) |
 | 🏏 **CricShopify** | Cricket merchandise e-commerce platform with product catalog, shopping cart, and order management | `React.js` • `Node.js` • `MongoDB`  |  [Source](https://github.com/krishna-Agrawal23/CricShopify) |
 | 🍱 **LunchLy** | Food ordering and restaurant management platform with menu browsing, cart functionality, and order management |  `Node.js` • `MongoDB` •  `Javascript`| [Source](https://github.com/krishna-Agraawal23/Lunchly) |
 | 🔍 **GitHub Profile Finder** | GitHub profile search application with real-time user lookup, repository insights, and developer statistics | `React.js` • `GitHub API` • `JavaScript` • `CSS`| [Source](https://github.com/krishna-Agrawal23/Github-ProfileFinder) |
-| 🛡️ **Detector** | Security-focused file analysis tool for detecting suspicious or potentially malicious files through automated scanning | Python • File Analysis • Security Detection| [Source](https://github.com/krishna-Agrawal23/Detector) | 
+| 🛡️ **Detector** | Security-focused file analysis tool for detecting suspicious or potentially malicious files through automated scanning | `Python` • `File Analysis` • `Security Detection`| [Source](https://github.com/krishna-Agrawal23/Detector) | 
 
 ---
 
 ## Currently Focused On
 
 - Desigining SaaS web applications
-- Building SaaS web applications
 - FreeLancing my Services
 - Open source contributions
 ---
